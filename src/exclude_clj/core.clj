@@ -19,7 +19,7 @@
     :default "racy"]
    ["-k" "--keep FILE" "Tests to always keep in .sum format"]
    ["-o" "--output FILE" "Output filename"
-    :default "stable-tests"]
+    :default "ignore-tests"]
    ["-h" "--help"]]
   )
 
